@@ -1,5 +1,5 @@
-#include <cassert>
 #include "single-linked-list.h"
+#include <iostream>
 
 void Test0() {
     using namespace std;
